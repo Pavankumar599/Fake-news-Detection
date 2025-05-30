@@ -4,5 +4,5 @@ This comprehensive guide will help you understand, customize, and efficiently ut
 ## 🧠 Machine Learning Lifecycle
 
 <div align="center">
-  <img src="assets/ml_lifecycle.png" alt="ML Lifecycle" width="500"/>
+  <img src="artifacts/ML_Lifecycle.png" alt="ML Lifecycle" width="500"/>
 </div>
