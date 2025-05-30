@@ -3,4 +3,4 @@ This comprehensive guide will help you understand, customize, and efficiently ut
 
 ## 🧠 Machine Learning Lifecycle
 
-![ML Lifecycle](assets/ml_lifecycle.png)
+![ML Lifecycle](artifacts/ML_Lifecycle.png)
