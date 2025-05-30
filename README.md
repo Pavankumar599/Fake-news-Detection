@@ -19,7 +19,7 @@ This project aims to detect fake news using machine learning techniques. It uses
 ## 🔍 Project Structure
 
 
-
+``` bash
 ├── api
 │   ├── api.py           # API for model serving
 │   ├── model.pkl        # Serialized model file
